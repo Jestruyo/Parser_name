@@ -1,8 +1,3 @@
-
-
-# Lista para almacenar los datos procesados (en este ejemplo no se usa, pero se declara)
-data_list = []
-
 def union_of_words(array):
     """
     Función encargada de unir las palabras contiguas a las preposiciones.
